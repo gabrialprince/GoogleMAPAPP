@@ -64,7 +64,7 @@ class _HomePageState extends ConsumerState<HomePage> {
   bool isReviews = true;
   bool isPhotos = false;
 
-  final key = 'AIzaSyCGJ1kCgrhNK0d8i1gN5mtenjp9KvgojwA';
+  final key = 'YOUR API KEY';
 
   var selectedPlaceDetails;
 
